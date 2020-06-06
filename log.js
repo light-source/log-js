@@ -85,5 +85,16 @@ class Log {
 
 export default {
     level: LOG.level,
-    Instance: Log.Instance(),
+    setAppName(appName) {
+        Log.Instance().setAppName(appName);
+    },
+    setIsDebugMode(isDebugMode) {
+        Log.Instance().setIsDebugMode(isDebugMode);
+    },
+    setErrorCallback(errorCallback) {
+        Log.Instance().setErrorCallback(errorCallback);
+    },
+    write(level, message, debugArgs = {}) {
+        Log.Instance().write(level, message, debugArgs);
+    },
 };
