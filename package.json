@@ -1,0 +1,19 @@
+{
+  "name": "@lightsource/log",
+  "version": "1.0.0",
+  "description": "Logging",
+  "main": "log.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/light-source/log-js.git"
+  },
+  "author": "LightSource",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/light-source/log-js/issues"
+  },
+  "homepage": "https://github.com/light-source/log-js#readme"
+}
