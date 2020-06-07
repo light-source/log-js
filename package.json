@@ -1,7 +1,13 @@
 {
   "name": "@lightsource/log",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "Class for console logging with multiple levels",
+  "keywords": [
+    "logging",
+    "log",
+    "console",
+    "multi-level"
+  ],
   "main": "log.js",
   "scripts": {
     "test": ""
