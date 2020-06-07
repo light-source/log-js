@@ -1,7 +1,7 @@
 # Log
 
 ## What is it
-Class for logging with multiple levels
+Class for console logging with multiple levels
 
 ## Installation
 ```
