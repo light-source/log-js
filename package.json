@@ -1,6 +1,6 @@
 {
   "name": "@lightsource/log",
-  "version": "2.0.4",
+  "version": "2.0.5",
   "description": "Class for console logging with multiple levels",
   "keywords": [
     "logging",
@@ -17,7 +17,7 @@
     "url": "git+https://github.com/light-source/log-js.git"
   },
   "author": "LightSource",
-  "license": "MIT",
+  "license": "GPL-2.0-only",
   "bugs": {
     "url": "https://github.com/light-source/log-js/issues"
   },
