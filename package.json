@@ -1,6 +1,6 @@
 {
   "name": "@lightsource/log",
-  "version": "3.0.2",
+  "version": "3.0.3",
   "description": "Class for console logging with multiple levels",
   "keywords": [
     "logging",
@@ -8,7 +8,7 @@
     "console",
     "multi-level"
   ],
-  "main": "log.ts",
+  "main": "log.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/light-source/log-js.git"
