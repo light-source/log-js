@@ -1,6 +1,6 @@
 {
   "name": "@lightsource/log",
-  "version": "3.0.0",
+  "version": "3.0.2",
   "description": "Class for console logging with multiple levels",
   "keywords": [
     "logging",
